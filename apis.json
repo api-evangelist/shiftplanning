@@ -1,0 +1,74 @@
+{
+    "name": "ShiftPlanning",
+    "description": "Humanity is easy to use employee scheduling software that helps your business manage shifts, schedules, payroll, time clocking and more online.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/652-shiftplanning.jpg",
+    "tags": [
+        "have api",
+        "payroll",
+        "schedules",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shiftplanning\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ShiftPlanning",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/652-shiftplanning.jpg",
+            "humanURL": "http:\/\/www.shiftplanning.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shiftplanning-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.shiftplanning.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/shiftplanning"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/humanity"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/shiftplanning"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.shiftplanning.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@humanity.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/shiftplanning"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/HumanityApp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/shiftplanning"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.shiftplanning.com"
+        }
+    ]
+}
